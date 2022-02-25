@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "login.test.ts",
+    "children" : [ {
+      "name" : "Login Tests",
+      "children" : [ {
+        "name" : "This test logins automation practice application successfully",
+        "uid" : "6588992cd0993568",
+        "parentUid" : "ee809e3b8927c45bd1b64c929d246f8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645623924420,
+          "stop" : 1645623942728,
+          "duration" : 18308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test verifies the failed login",
+        "uid" : "2265e91ecd7a4c51",
+        "parentUid" : "ee809e3b8927c45bd1b64c929d246f8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645623942728,
+          "stop" : 1645623954310,
+          "duration" : 11582
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test logins3 different users to automation practice application successfully",
+        "uid" : "e28d691b134fc9ed",
+        "parentUid" : "ee809e3b8927c45bd1b64c929d246f8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645624269655,
+          "stop" : 1645624315767,
+          "duration" : 46112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee809e3b8927c45bd1b64c929d246f8b"
+    } ],
+    "uid" : "b4d4074ecfe71cba8a82e96e0d681dc8"
+  } ]
+}

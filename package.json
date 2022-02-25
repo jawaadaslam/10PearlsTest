@@ -1,0 +1,22 @@
+{
+  "name": "ops_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.17.2",
+    "allure-playwright": "^2.0.0-beta.11",
+    "axios": "0.21.1",
+    "playwright": "^1.17.2",
+    "ts-node": "10.2.0",
+    "turbodepot-node": "^7.0.1",
+    "typescript": "4.3.5"
+  }
+}
