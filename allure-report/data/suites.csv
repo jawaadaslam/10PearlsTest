@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Feb 23 18:45:24 PKT 2022","Wed Feb 23 18:45:42 PKT 2022","18308","","login.test.ts","Login Tests","","","This test logins automation practice application successfully",""
-"passed","Wed Feb 23 18:51:09 PKT 2022","Wed Feb 23 18:51:55 PKT 2022","46112","","login.test.ts","Login Tests","","","This test logins3 different users to automation practice application successfully",""
-"passed","Wed Feb 23 18:45:42 PKT 2022","Wed Feb 23 18:45:54 PKT 2022","11582","","login.test.ts","Login Tests","","","This test verifies the failed login",""
